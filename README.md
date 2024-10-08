@@ -3,10 +3,10 @@
 </p>
 <h1 align="center">pyCmd</h1>
 <p align="center">
-<a href="https://github.com/your-username/pycmd/issues"><img alt="Issues open" src="https://img.shields.io/github/issues-raw/your-username/pycmd?style=for-the-badge" height="20"/></a>
-<a href="https://github.com/your-username/pycmd/"><img alt="Last commit" src="https://img.shields.io/github/last-commit/your-username/pycmd?style=for-the-badge" height="20"/></a>
-<a href="https://github.com/your-username/pycmd/releases"><img alt="Latest version" src="https://img.shields.io/github/v/tag/your-username/pycmd?label=Latest%20Version&style=for-the-badge" height="20"/></a>
-<a href="https://github.com/your-username/pycmd/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/your-username/pycmd?style=for-the-badge" height="20"/></a>
+<a href="https://github.com/nowte/pyCmd/issues"><img alt="Issues open" src="https://img.shields.io/github/issues-raw/your-username/pycmd?style=for-the-badge" height="20"/></a>
+<a href="https://github.com/nowte/pyCmd/"><img alt="Last commit" src="https://img.shields.io/github/last-commit/your-username/pycmd?style=for-the-badge" height="20"/></a>
+<a href="https://github.com/nowte/pyCmd/releases"><img alt="Latest version" src="https://img.shields.io/github/v/tag/your-username/pycmd?label=Latest%20Version&style=for-the-badge" height="20"/></a>
+<a href="https://github.com/nowte/pyCmd/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/your-username/pycmd?style=for-the-badge" height="20"/></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/your-username/pycmd/releases">Download & Release Notes</a>
+	<a href="https://github.com/nowte/pyCmd/releases">Download & Release Notes</a>
 </p>
 <br />
 
@@ -55,4 +55,4 @@ To get started with **pyCmd**, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nowte/pycmd.git
+   git clone https://github.com/nowte/pyCmd.git
