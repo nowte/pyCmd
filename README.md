@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url/logo.png" alt="Logo" width="150" height="150" />
+  <img src="https://imgur.com/D6AFpDU" alt="Logo" width="150" height="150" />
 </p>
 <h1 align="center">pyCmd</h1>
 <p align="center">
