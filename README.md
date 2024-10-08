@@ -3,10 +3,10 @@
 </p>
 <h1 align="center">pyCmd</h1>
 <p align="center">
-<a href="https://github.com/nowte/pyCmd/issues"><img alt="Issues open" src="https://img.shields.io/github/issues-raw/your-username/pycmd?style=for-the-badge" height="20"/></a>
-<a href="https://github.com/nowte/pyCmd/"><img alt="Last commit" src="https://img.shields.io/github/last-commit/your-username/pycmd?style=for-the-badge" height="20"/></a>
-<a href="https://github.com/nowte/pyCmd/releases"><img alt="Latest version" src="https://img.shields.io/github/v/tag/your-username/pycmd?label=Latest%20Version&style=for-the-badge" height="20"/></a>
-<a href="https://github.com/nowte/pyCmd/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/your-username/pycmd?style=for-the-badge" height="20"/></a>
+<a href="https://github.com/nowte/pyCmd/issues"><img alt="Issues open" src="https://img.shields.io/github/issues-raw/nowte/pyCmd?style=for-the-badge" height="20"/></a>
+<a href="https://github.com/nowte/pyCmd/"><img alt="Last commit" src="https://img.shields.io/github/last-commit/nowte/pyCmd?style=for-the-badge" height="20"/></a>
+<a href="https://github.com/nowte/pyCmd/releases"><img alt="Latest version" src="https://img.shields.io/github/v/tag/nowte/pyCmd?label=Latest%20Version&style=for-the-badge" height="20"/></a>
+<a href="https://github.com/nowte/pyCmd/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/nowte/pyCmd?style=for-the-badge" height="20"/></a>
 </p>
 
 <p align="center">
