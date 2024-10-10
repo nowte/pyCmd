@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/D6AFpDU.png" alt="Logo" width="150" height="150" />
 </p>
-<h1 align="center"></h1>
 <p align="center">
 <a href="https://github.com/nowte/pyCmd/issues"><img alt="Issues open" src="https://img.shields.io/github/issues-raw/nowte/pyCmd?style=for-the-badge" height="20"/></a>
 <a href="https://github.com/nowte/pyCmd/"><img alt="Last commit" src="https://img.shields.io/github/last-commit/nowte/pyCmd?style=for-the-badge" height="20"/></a>
